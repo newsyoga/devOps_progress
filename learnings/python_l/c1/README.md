@@ -26,4 +26,3 @@
 * ```float('10') = 10.0```
 * ```float(10) = 10.0```
 
-## [chapter 2](https://automatetheboringstuff.com/2e/chapter2/)
