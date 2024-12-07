@@ -17,4 +17,13 @@
 * ```input()``` takes input from user
 * ```len()``` returns length of provided string
   * ```len('33') = 2```
-* hello
+
+### eveluation functions
+* ```str(29) = '29'```
+* ```int(33.56) = 33```
+* ```int('33') = 33```
+* ```int('33.33') = ERROR```
+* ```float('10') = 10.0```
+* ```float(10) = 10.0```
+
+## [chapter 2](https://automatetheboringstuff.com/2e/chapter2/)
