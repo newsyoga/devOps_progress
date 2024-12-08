@@ -12,5 +12,7 @@
 * ```not```
 
 ### flow control statements
-* ```if apple == 16 :
-       print('This is latest apple').```
+* ```
+  if apple == 16 :
+    print('This is latest apple').
+  ```
