@@ -2,10 +2,10 @@
 read -p "Enter git commit message : " msgStr
 
 git add *
-echo "git add done \n\n"
+echo -e "git add done \n\n"
 
 git commit -m "$msgStr $(date)"
-echo "git commit done : $msgStr $(date)\n\n"
+echo -e "git commit done : $msgStr $(date)\n\n"
 
 git push
-echo "done upload exiting script...\n\n"
+echo -e "done upload exiting script...\n\n"
