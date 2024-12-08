@@ -24,7 +24,19 @@ def hello(name):
     global a
     a = 'world'
   
+  world()
+  
   print(a)
   ```
   outputs ```world```
+
+### exception handling
+* ```
+  try:
+    a = 2 / 0
+  except:
+    print("wrong denominator 0")
+  finally:
+    print("this will be executed regardless of exception!")
+  ```
 
